@@ -1,0 +1,8 @@
+# congif files
+.env 
+.env.local
+/.vscode
+
+# large folders
+/node_modules
+/vendor
